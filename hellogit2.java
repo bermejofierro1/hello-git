@@ -1,4 +1,4 @@
 public class hellogit2 {
     
-    System.out.println("segunda parte del curso");
+    System.out.println("nuevo segunda parte del curso");
 }
